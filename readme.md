@@ -56,6 +56,6 @@ This part of the project file is responsible for generating the direct calls and
 
 ## References
 
-https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/interop
-https://github.com/dotnet/runtime/issues/89044
+- https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/interop
+- https://github.com/dotnet/runtime/issues/89044
 
