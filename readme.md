@@ -41,7 +41,7 @@ internal static class App
 This part of the project file is responsible for generating the direct calls and linking statically against the library written in C:
 
 `app.csproj`
-```csharp
+```xml
 
     <ItemGroup>
         <!-- Generate direct PInvokes for Dependency -->
